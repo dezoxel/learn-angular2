@@ -1,5 +1,5 @@
 {
-    "name": "learn-angular2_hello-world",
+    "name": "learn-angular2_egghead_hello-world",
     "version": "1.0.0",
     "scripts": {
         "tsc": "tsc",
